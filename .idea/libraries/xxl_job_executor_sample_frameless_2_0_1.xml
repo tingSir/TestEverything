@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xxl-job-executor-sample-frameless-2.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-frameless/target/xxl-job-executor-sample-frameless-2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

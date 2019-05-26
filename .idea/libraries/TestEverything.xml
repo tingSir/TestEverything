@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="TestEverything">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spring-anno(7).zip!/" />
+      <root url="jar://$PROJECT_DIR$/jeecg-jeecg-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Neo4j-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/xuxueli0323-xxl-job-v2.0.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/mvs-jeecg.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

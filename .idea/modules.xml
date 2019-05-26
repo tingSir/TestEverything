@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/testModule/TestEverything.iml" filepath="$PROJECT_DIR$/testModule/TestEverything.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbozk/consumer/consumer.iml" filepath="$PROJECT_DIR$/dubbozk/consumer/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbozk/dubbozk.iml" filepath="$PROJECT_DIR$/dubbozk/dubbozk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/james-springmvc/james-springmvc.iml" filepath="$PROJECT_DIR$/james-springmvc/james-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnspring/learn-spring.iml" filepath="$PROJECT_DIR$/learnspring/learn-spring.iml" />
+      <module fileurl="file://H:/分布式/笔记/Mic老师上课的所有源码（日期对应上课日期）/michael-vip/michael-vip.iml" filepath="H:/分布式/笔记/Mic老师上课的所有源码（日期对应上课日期）/michael-vip/michael-vip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbozk/provider/order-api/orderapi.iml" filepath="$PROJECT_DIR$/dubbozk/provider/order-api/orderapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbozk/provider/order-service/orderservice.iml" filepath="$PROJECT_DIR$/dubbozk/provider/order-service/orderservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns/patterns.iml" filepath="$PROJECT_DIR$/patterns/patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbozk/provider/provider.iml" filepath="$PROJECT_DIR$/dubbozk/provider/provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet3-demo/servlet3-demo.iml" filepath="$PROJECT_DIR$/servlet3-demo/servlet3-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-anno/spring-anno.iml" filepath="$PROJECT_DIR$/spring-anno/spring-anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot/springBoot.iml" filepath="$PROJECT_DIR$/springBoot/springBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-anno/springmvc-anno.iml" filepath="$PROJECT_DIR$/springmvc-anno/springmvc-anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbozk/consumer/user/user.iml" filepath="$PROJECT_DIR$/dubbozk/consumer/user/user.iml" />
+      <module fileurl="file://H:/分布式/笔记/Mic老师上课的所有源码（日期对应上课日期）/michael-vip/socketDemo/vip-0722.iml" filepath="H:/分布式/笔记/Mic老师上课的所有源码（日期对应上课日期）/michael-vip/socketDemo/vip-0722.iml" />
+      <module fileurl="file://H:/分布式/笔记/Mic老师上课的所有源码（日期对应上课日期）/michael-vip/serializeDemo/vip-0723.iml" filepath="H:/分布式/笔记/Mic老师上课的所有源码（日期对应上课日期）/michael-vip/serializeDemo/vip-0723.iml" />
+      <module fileurl="file://H:/分布式/笔记/Mic老师上课的所有源码（日期对应上课日期）/michael-vip/rmiDemo/vip-0729.iml" filepath="H:/分布式/笔记/Mic老师上课的所有源码（日期对应上课日期）/michael-vip/rmiDemo/vip-0729.iml" />
+      <module fileurl="file://H:/分布式/笔记/Mic老师上课的所有源码（日期对应上课日期）/michael-vip/webServiceDemo/vip-0730.iml" filepath="H:/分布式/笔记/Mic老师上课的所有源码（日期对应上课日期）/michael-vip/webServiceDemo/vip-0730.iml" />
+      <module fileurl="file://H:/分布式/笔记/Mic老师上课的所有源码（日期对应上课日期）/michael-vip/zkeeperDemo/vip-0805.iml" filepath="H:/分布式/笔记/Mic老师上课的所有源码（日期对应上课日期）/michael-vip/zkeeperDemo/vip-0805.iml" />
+      <module fileurl="file://H:/分布式/笔记/Mic老师上课的所有源码（日期对应上课日期）/michael-vip/zkUse/vip-0809.iml" filepath="H:/分布式/笔记/Mic老师上课的所有源码（日期对应上课日期）/michael-vip/zkUse/vip-0809.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vip-xiangxue/vip-xiangxue.iml" filepath="$PROJECT_DIR$/vip-xiangxue/vip-xiangxue.iml" />
+    </modules>
+  </component>
+</project>

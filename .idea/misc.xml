@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/james-springmvc" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-anno" />
+    <file type="web" url="file://$PROJECT_DIR$/testdubbo" />
+    <file type="web" url="file://H:/分布式/笔记/Mic老师上课的所有源码（日期对应上课日期）/michael-vip/webServiceDemo" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/learnspring/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-anno/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot/pom.xml" />
+        <option value="$PROJECT_DIR$/testModule/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-anno/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet3demo/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet3-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/james-springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/patterns/pom.xml" />
+        <option value="H:/分布式/笔记/Mic老师上课的所有源码（日期对应上课日期）/michael-vip/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbozk/pom.xml" />
+        <option value="$PROJECT_DIR$/vip-concurrent/pom.xml" />
+        <option value="$PROJECT_DIR$/vip-xiangxue/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

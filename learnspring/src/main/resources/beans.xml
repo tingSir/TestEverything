@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd"
+         default-autowire="byName">
+
+	<bean id="beanTest" class="com.resoft.mySpring.BeanTest" scope="prototype"></bean>
+
+	<bean id="dog" class="com.resoft.mySpring.poju.Dog">
+		<property name="name" value="萨摩狗" ></property>
+	</bean>
+
+		<bean id="p3" class="com.resoft.mySpring.poju.People">
+		<property name="name" value="老陈"></property>
+		<property name="age" value="56"></property>
+		<lookup-method name="getBeanTest" bean="beanTest"/>
+	</bean>
+
+	<!-- <bean id="p4" class="com.resoft.mySrping.poju.People">
+		<property name="name" value="老陈"></property>
+		<property name="age" value="56"></property>
+	</bean>	 -->
+</beans>

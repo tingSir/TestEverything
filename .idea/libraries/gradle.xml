@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="gradle">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/gradle/antjdiff.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/gradle/jdiff.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/gradle/xerces.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
